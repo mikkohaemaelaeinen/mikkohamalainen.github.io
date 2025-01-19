@@ -7,7 +7,7 @@
 
 ## Work Experience
 **Internship at Skillwell (_August 2024 - January 2025_)**
-- Conducted a research on the capabilities of Amazon Connect to increase knowledge about the business opportunities regarding the Connect.
+- Conducted research on the capabilities of Amazon Connect to increase knowledge about the business opportunities regarding the Connect.
 - Trained how to build a Shopify app with Remix.js and how to host Shopify infrastructure on AWS.
 
 ## Projects
