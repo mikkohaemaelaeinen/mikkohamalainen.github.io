@@ -12,12 +12,12 @@
 
 ## Projects
 ### A tournament bracket building app, Tournament Assembly
-[Github repo](link)
+[Github repo](https://github.com/jamktiko/TournamentAssembly-svelte.git)
 
 As a part of our curriculum we had a the whole fall of 2023 to develop an app of our choosing. This app was created to streamline tournament brackerts and other scoreboards creation for casual play sessions of table tennis, darts etc. to replace shuffling with pen and paper. My role was to develop a backend to this app using JavaScript and MongoDB to store and handle user data (and the user data security) and all the data regarding the brackets.
 
-### Game backlog app
-[Github repo](link)
+### Game backlog app, My Gamelist
+[Github repo](https://github.com/mikkohaemaelaeinen/frontend.git)
 
-An app created with Svelte for searching games and creating a backlog list for the games you want to play. This app uses an API from which users can search hundreds of thousands games and find new games to try out.
+An app created with Svelte for searching games and creating a backlog list for the games you want to play. This app uses a Rawg.io API from which users can search hundreds of thousands games and find new games to try out.
 
